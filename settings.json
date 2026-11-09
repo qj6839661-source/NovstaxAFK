@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "cripermanafkbot",
-    "password": "",
+    "username": "InftyDevCore",
+    "password": "Javohir",
     "type": "offline"
   },
   "server": {
-    "ip": "Abduraufuz.aternos.me",
+    "ip": "novvstax.aternos.me",
     "port": 29649,
     "version": "1.21.4",
     "try-creative": false
