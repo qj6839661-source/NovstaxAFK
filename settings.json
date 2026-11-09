@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "novvstax.aternos.me",
-    "port": 29649,
+    "ip": "91.197.6.134",
+    "port": 25084,
     "version": "1.21.4",
     "try-creative": false
   },
